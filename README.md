@@ -1,16 +1,33 @@
 TÍTULO DEL DESIGN DOC
+
 (https://github.com/JuanBebe32/UABC_Cloud_computing/edit/DocumentoDesignDocs/README.md)
+
+
 Autor(es): Juan Garica
 
+
+print("\n")
+
+
 Estado:  Listo para revisión
+
+
 Última actualización: 17-09-2025
+
+
+print("\n")
+
 
 Contenido: El contenido se extendera atravez de esta plantilla atraves de el paso y progreso de el deasarrollo de la app
 Objetivos: Como QA Calificar verificar el funcionamiento de el FRONTEND,BACKEND,DATABASE y detallar en un informe el resultado de cada analisis para el avance o solucion en el proyecto.
 No-objetivos : Desconocidos
 Fondo
+
+
+print("\n")
 Descripción general: Aqui se hablara sobre todo el desarrollo de la app de compras compulsivas tanto como sus errores y trabajo de soluciones, tambien se hablaran diseños,conexiones, ideas, peticiones, opiniones, desarrollo y conclusiones
 Diseño detallado: Desconocido
+
 Solución 1
 Interfaz
 Backend
