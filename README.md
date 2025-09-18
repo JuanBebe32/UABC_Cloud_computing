@@ -28,7 +28,7 @@ se busca lograr apoyar a las personas afectadas por el fenomeno de las compras c
 Incluye contexto para las personas que no están familiarizadas con el proyecto.
 Somos un grupo universitario que busca ayudar a las personas a poder manejar de mejor manera las compras compulsivas a la vez que practicamos en el trabajo de desarrollo de aplicaciones como esta para poder lograr el cambio en esta condicion de "mercado"
 Mantenlo corto, elaborado en Antecedentes, Descripción General y Diseño Detallado
-#####################################################################################################################/Profesor guillermoi aparttir de este punto en su totalidad seran areas que se trabajaran en un futuro y/o planeamos desarrollar en las siguientes clases
+#####################################################################################################################/    Profesor guillermo aparttir de este punto en su totalidad seran areas que se trabajaran en un futuro y/o planeamos desarrollar en las siguientes clases
 por lo que el desarrollo de este documento seguira en avance junto con el proyecto der momento oy 17/09/2025 este es el fin de esta parte hasta el momento.
 Agrega capturas de pantalla / simulacros si lo ves necesario  "se agregaran con el paso de el tiempo
 
